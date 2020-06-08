@@ -11,7 +11,6 @@ import (
 func loadPlugins() []plugin.Plugin {
 
 	plugins := make([]plugin.Plugin, 0)
-	//plugins = append(plugins, mysql.NewHandler())
 	plugins = append(plugins, swagger.NewHandler())
 
 	return plugins

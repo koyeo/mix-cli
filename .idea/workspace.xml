@@ -1,17 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1c04089f-0842-4b5c-979e-877bfa4978e0" name="Default Changelist" comment="" />
+    <list default="true" id="1c04089f-0842-4b5c-979e-877bfa4978e0" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/mix.go" beforeDir="false" afterPath="$PROJECT_DIR$/mix.go" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="GOROOT" path="$USER_HOME$/sdk/go1.13.3" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="GoLibraries">
     <option name="indexEntireGoPath" value="false" />
   </component>
   <component name="ProjectId" id="1d1rCECEorxX9MGTOytRMmgxVDp" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
