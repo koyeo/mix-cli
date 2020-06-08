@@ -1,0 +1,1 @@
+PRIMARY KEY ({% for key in Keys %}`{{ key }}`{% endfor %})

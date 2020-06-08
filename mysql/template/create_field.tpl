@@ -1,0 +1,1 @@
+`{{ Name }}` {{ Type }}{% if Length %}({{ Length }}){% endif %}{% if Unsigned %} unsigned{% endif %}{% if Zerofill %} zerofill{% endif %}{% if Nullable %} NOT NULL{% endif %}{% if Default %} DEFAULT '{{ Default }}'{% endif %}{% if Extra %} {{ Extra }}{% endif %}{% if Comment %} COMMENT '{{ Comment }}'{% endif %}
